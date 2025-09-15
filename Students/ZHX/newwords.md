@@ -8,8 +8,7 @@
 | statutory       | adj          | 法律上的,法定的  | The company will only allow the statutory holidays.          |
 | ask for leave   | v            | 请假             | I am asking for leave to go on holiday.                      |
 |dementia              |      n       |    痴呆症 |She is suffering from senile dementia.
-|despite  |    prep.   |   尽管，即使；不由自主地，忍不住地|
-Despite our worries everything turned out well.
+|despite  |    prep.   |   尽管，即使；不由自主地，忍不住地|Despite our worries everything turned out well.
 |                  |             |                |
 |                  |             |                |
 |                  |             |                |
